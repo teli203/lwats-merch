@@ -136,9 +136,9 @@ header.fixed-top {
   border: 2px solid black;
 }
 /* Hero Banner End */
-/* What we do Start */
+/* Style we do Start */
 
-.what-we-do {
+.style-we-do {
   padding: 65px 0;
 }
 
@@ -158,32 +158,32 @@ header.fixed-top {
   margin-bottom: 40px;
 }
 
-.what-we-do .boxes-wrapper {
+.style-we-do .boxes-wrapper {
   padding: 50px 50px 50px 30px;
   border-radius: 30px;
   transition: all 0.35s linear;
   background-color: rgb(235, 233, 233);
 }
 
-.what-we-do .boxes-wrapper:hover {
+.style-we-do .boxes-wrapper:hover {
   box-shadow: 0 4px 20px 0 #0000001a;
 }
 
-.what-we-do .boxes-wrapper h3 {
+.style-we-do .boxes-wrapper h3 {
   font-size: 24px;
   font-weight: 600;
   line-height: 1.2;
   margin-bottom: 15px;
 }
 
-.what-we-do .boxes-wrapper p {
+.style-we-do .boxes-wrapper p {
   font-size: 18px;
   font-weight: 400;
   line-height: 1.5;
   margin-bottom: 40px;
 }
 
-.what-we-do .boxes-wrapper a {
+.style-we-do .boxes-wrapper a {
   transition: all 0.35s linear;
   font-size: 18px;
   font-weight: 400;
@@ -195,20 +195,20 @@ header.fixed-top {
   color: inherit;
 }
 
-.what-we-do .boxes-wrapper:hover a {
+.style-we-do .boxes-wrapper:hover a {
   color: rgba(243, 242, 242, 0.938);
   background-color: #333;
 }
 
-.what-we-do .boxes-wrapper a img {
+.style-we-do .boxes-wrapper a img {
   transition: all 0.35s linear;
 }
 
-.what-we-do .boxes-wrapper:hover a img {
+.style-we-do .boxes-wrapper:hover a img {
   filter: invert(1);
 }
 
-/* What we do End */
+/* Style we do End */
 /* Our progress Start */
 
 .our-progress {
@@ -535,11 +535,11 @@ div#subscribe-response-message {
     padding: 35px 0;
   }
 
-  .what-we-do .boxes-wrapper {
+  .style-we-do .boxes-wrapper {
     padding-right: 30px;
   }
 
-  .what-we-do .boxes-wrapper h3 {
+  .style-we-do .boxes-wrapper h3 {
     min-height: 57px;
   }
 
@@ -592,29 +592,29 @@ div#subscribe-response-message {
     padding: 90px 0 25px;
   }
 
-  .what-we-do .boxes-wrapper {
+  .style-we-do .boxes-wrapper {
     padding: 30px;
   }
 
-  .what-we-do .boxes-wrapper > img {
+  .style-we-do .boxes-wrapper > img {
     width: 70px;
   }
 
-  .what-we-do .boxes-wrapper h3 {
+  .style-we-do .boxes-wrapper h3 {
     font-size: 20px;
   }
 
-  .what-we-do .boxes-wrapper p {
+  .style-we-do .boxes-wrapper p {
     font-size: 16px;
     margin-bottom: 20px;
   }
 
-  .what-we-do .boxes-wrapper a {
+  .style-we-do .boxes-wrapper a {
     font-size: 16px;
     padding: 10px 15px;
   }
 
-  .what-we-do .boxes-wrapper a img {
+  .style-we-do .boxes-wrapper a img {
     width: 14px;
   }
 
@@ -699,7 +699,7 @@ div#subscribe-response-message {
   }
 
   .hero-banner .row,
-  .what-we-do .row {
+  .style-we-do .row {
     row-gap: 30px;
   }
 
@@ -714,7 +714,7 @@ div#subscribe-response-message {
     text-align: center;
   }
 
-  .what-we-do .boxes-wrapper h3 {
+  .style-we-do .boxes-wrapper h3 {
     min-height: auto;
   }
 
