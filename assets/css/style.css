@@ -92,6 +92,12 @@ header .navbar-expand-lg .navbar-nav {
   background-color: black;
 }
 
+.btn-success:hover {
+  background-color: rgba(131, 88, 2, 0.962);
+  border-color: black;
+}
+
+
 header.fixed-top {
   border: 1.5px solid black;
   background-color: #dde2dd;
